@@ -4,12 +4,6 @@ title: Quién soy
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+Estamos trabajando para llenar esta página.
 
 [](mailto:)
