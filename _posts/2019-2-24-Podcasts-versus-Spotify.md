@@ -12,7 +12,7 @@ Apple supo ver en su momento que los podcasts eran un nicho que crecía enormeme
 
 ## Podcasts versus algoritmos
 
-En los podcasts no hay algoritmos [[^1]] de por medio que destaquen contenidos por sobre otro, no hay un "dueño de la cancha" que ponga las reglas pero no se las aclare a sus jugadores (si, te estoy mirando a vos YouTube). Los auspiciantes tratan directamente con el creador[^2]. No hay un seguimiento pormenorizado del comprotamiento de quienes escuchen y, en mayor o menor medida, es la calidad del contenido y de la producción lo que determina la popularidad de un podcast en particular.
+En los podcasts no hay algoritmos [[^*1*]] de por medio que destaquen contenidos por sobre otro, no hay un "dueño de la cancha" que ponga las reglas pero no se las aclare a sus jugadores (si, te estoy mirando a vos YouTube). Los auspiciantes tratan directamente con el creador[^2]. No hay un seguimiento pormenorizado del comprotamiento de quienes escuchen y, en mayor o menor medida, es la calidad del contenido y de la producción lo que determina la popularidad de un podcast en particular.
 
 Esto viene con su cuota de problemas. Uno de ellos, desde el lado de quienes escuchamos, es la "descubribilidad[^3]". Encontrar podcasts para escuchar es relativamente difícil, no porque no haya, sino porque requiere una inversión de tiempo que uno no siempre está dispuesto a hacer. El algoritmo de YouTube, por ejemplo, tiende a recomendarte cosas para que sigas viendo cuando terminaste con una. En los podcasts esto es más difícil dado que no hay métodos de seguimiento tan invasivos.
 
