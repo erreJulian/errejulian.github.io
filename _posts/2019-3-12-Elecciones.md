@@ -1,9 +1,9 @@
-# Quién es quién en las elecciones cordobesas 
+#Quién es quién en las elecciones cordobesas 
 
 Aquí un pequeño resumen del siguiente cuadro:
 [Candidatos](images/elecciones.jpeg)
 
-## Gobernador
+##Gobernador
 
 Para entender lo absurdo del escenario electoral cordobés hay que tener algo muy en claro: Mestre y Macri se detestan (y ambos se echan en cara tener un pacto secreto con Schiaretti).
 
@@ -15,7 +15,7 @@ Negri ha sido relativamente irrelevante para la política local y por eso hay po
 
 Carro es el candidato del Kirchnerismo local, que denuncia un pacto entre Scharetti y Macri para no pisarse. Como el voto por gobernador y presidente no siempre van a la par, se especula con que Scharetti desdobló las elecciones para favorecer al presidente. 
 
-## Intendentes
+##Intendentes
 
 Unión Por Córdoba se quedó sin figuras de peso en la ciudad así que tiene que instalar a Martín Llaroyra, de la ciudad de San Fransisco, como candidato.
 
