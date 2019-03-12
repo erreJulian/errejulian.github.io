@@ -6,4 +6,4 @@ permalink: /about/
 
 Estamos trabajando para llenar esta página.
 
-[](mailto:)
+[📩](mailto:errejulian@gmail.com)
