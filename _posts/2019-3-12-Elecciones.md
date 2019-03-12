@@ -1,7 +1,7 @@
 # Quién es quién en las elecciones cordobesas 
 
 Aquí un pequeño resumen del siguiente cuadro:
-[Candidatos](/images/elecciones.jpeg)
+[Candidatos](images/elecciones.jpeg)
 
 ## Gobernador
 
@@ -9,7 +9,7 @@ Para entender lo absurdo del escenario electoral cordobés hay que tener algo mu
 
 El favorito es Scharetti, socio de De La Sota en UPC desde 1998. Scharetti tomó la posta después de dos gobernaciones consecutivas de José Manuel y se la volvió a ceder tras un período. A cargo nuevamente desde 2015. Se lleva bien con Mestre y con Macri, es el gran ganador de la división de Cambiemos.
 
-Mestre gobierna la ciudad desde 2011 y se creía el candidato natural para la gobernación por Cambiemos. Macri no lo quiere, le bajó el pulgar y quiso![](images/elecciones.jpeg) imponer a Negri como candidato. De ahí toda la cacareada por las internas que no llevó a nada. 
+Mestre gobierna la ciudad desde 2011 y se creía el candidato natural para la gobernación por Cambiemos. Macri no lo quiere, le bajó el pulgar y quiso imponer a Negri como candidato. De ahí toda la cacareada por las internas que no llevó a nada. 
 
 Negri ha sido relativamente irrelevante para la política local y por eso hay poco para decir sobre él. Recibió la bendición de Macri para ir por la gobernación, le fue muy fiel desde la formación de Cambiemos.
 
