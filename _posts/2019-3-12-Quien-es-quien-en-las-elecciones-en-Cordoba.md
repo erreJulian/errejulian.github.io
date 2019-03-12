@@ -1,5 +1,5 @@
 El panorama electoral cordobés está bastante enrarecido, aún para quienes intentamos seguirle el rastro. [La debacle de las elecciones internas de Cambiemos](https://www.lavoz.com.ar/politica/se-abre-grieta-en-cambiemos-cordoba-negri-y-mestre-por-separado) despertó un fuerte interés en la carrera por los dos cargos principales en disputa. Aquí un pequeño resumen del siguiente cuadro, con los candidatos de las principales fuerzas:
-[Candidatos](/images/elecciones.jpeg)
+![Candidatos](/images/elecciones.jpeg)
 
 ## Gobernador
 
