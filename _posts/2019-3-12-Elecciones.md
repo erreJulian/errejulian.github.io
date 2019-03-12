@@ -1,5 +1,5 @@
 Aquí un pequeño resumen del siguiente cuadro:
-[Candidatos](images/elecciones.jpeg)
+[Candidatos](/images/elecciones.jpeg)
 
 ## Gobernador
 
