@@ -1,5 +1,3 @@
-# Quién es quién en las elecciones cordobesas 
-
 Aquí un pequeño resumen del siguiente cuadro:
 [Candidatos](images/elecciones.jpeg)
 
