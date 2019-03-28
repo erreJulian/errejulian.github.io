@@ -1,4 +1,4 @@
-[La BBC retiró sus podcasts de las plataformas de Google](http://www.bbc.co.uk/blogs/aboutthebbc/entries/d68712d7-bd24-440f-94a0-1c6a4cdee71a), al considerar que la manera en la que aparecen en los resultados de las búsquedas son perjudiciales.
+[La BBC retiró sus podcasts de las plataformas de Google](http://www.bbc.co.uk/blogs/aboutthebbc/entries/d68712d7-bd24-440f-94a0-1c6a4cdee71a), al considerar que la manera en la que aparecen en los resultados de las búsquedas les perjudica. 
 
 Al buscar un podcast de la BBC, Google  redireccionaba forzosamente a uno de sus servicios y no a los de la productora británica, pese a las objeciones que presentaron.
 
