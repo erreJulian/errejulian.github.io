@@ -1,0 +1,7 @@
+De la inagotable cantidad de artículos que tengo guardados en [Pocket](www.getpocket.com) hoy leí sobre como el inminente lanzamiento de las redes [5G de telefonía celular podría dificultar la tarea de hacer pronósticos del tiempo.](https://hackaday.com/2019/04/16/5g-buildout-likely-to-put-weather-forecasting-at-risk/)
+
+Según parece, la banda del espectro radioeléctrico que se va a usar para las redes 5g es la de 24 GHz, muy cercana a la frecuencia de 23.8 GHz que es la que se usa para medir el vapor de agua en el ambiente con sensores de microondas montados en los satélites que nos orbitan. El vapor de agua es una de las mediciones claves para la elaboración de pronósticos del tiempo.
+
+El administrador de la NASA, Jim Bridenstine, le pidió al jefe de la Comisión Federal de Comunicaciones de Estados Unidos (Ajit Pai, muy ligado a los intereses de las grandes empresas de telecomunicaciones y enemigo de la neutralidad de la red), que no subaste licencias para la banda de 24 GHz del espectro. Obviamente, Pai dijo que “no había bases técnicas para tal objeción” y las subastó igual a principios de marzo de este año.
+
+Resta ver cómo impacta el uso de esta frecuencia en las mediciones satelitales del vapor de agua. El 5G podría generar un ruido en las mediciones, causando errores en los pronósticos.
