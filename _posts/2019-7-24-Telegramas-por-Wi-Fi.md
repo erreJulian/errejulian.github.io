@@ -30,4 +30,4 @@ Como dije más arriba, no es cierto que peligren los resultados "reales" de la e
 
 Sin embargo, el impacto que puede tener la falta de transparencia con la que el Gobierno Nacional está manejando el proceso puede manchar y entorpecer tanto las PASO como las Generales en octubre. El nivel de desprolijidad y apuro con el que se ha encarado la implementación del sistema debería resultar, cuando menos, llamativo dado que se trata de un eslabon fundamental en la cadena de legitimidad que tiene el proceso electoral.
 
-Casi como si quisieran embarrar la cancha adrede.
+No puedo evitar preguntarme cuál es la necesidad y la urgencia de implementar un cambio de esta manera, a las apuradas y sin un amplio consenso, a un sistema que no requería una modificación de manera urgente y que -pese a algunos pataleos- ha funcionado bastante bien.
