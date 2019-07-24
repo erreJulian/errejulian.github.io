@@ -14,7 +14,9 @@ El gobierno de Macri se encaprichó con que necesitábamos voto electrónico, pe
 
 Ya no será el Correo Argentino quien tenga que ir escuela por escuela recuperando las urnas, sino que apenas se termine el conteo se envían los datos de la mesa a un comando central donde se realiza la carga hasta que se puedan publicar los resultados.
 
-## Se cayo el sistema
+Se hicieron ya múltiples ensayos, ninguno exitoso a pesar de que [intenten afirmar que si](https://www.ambito.com/escrutinio-provisorio-gobierno-defendio-nuevo-sistema-y-prometio-mejorar-la-difusion-resultados-n5043776). La [tasa de error que se maneja es de 13%](https://mobile.twitter.com/Federal1949/status/1154067214590455811), con algunas provincias que han llegado al 96%.
+
+## Se cayó el sistema
 
 Tres empresas se presentaron a la convocatoria para este proceso de "modernización" del escrutinio provisorio. La elegida fue Smartmatic, solo por haber [presentado la oferta mas barata](https://twitter.com/mis2centavos/status/1151874045392109569?s=20), [siendo que fue la que menos puntos recibió en su propuesta técnica y antecedentes](https://twitter.com/mis2centavos/status/1151868418943070209).
 
@@ -29,4 +31,3 @@ Como dije más arriba, no es cierto que peligren los resultados "reales" de la e
 Sin embargo, el impacto que puede tener la falta de transparencia con la que el Gobierno Nacional está manejando el proceso puede manchar y entorpecer tanto las PASO como las Generales en octubre. El nivel de desprolijidad y apuro con el que se ha encarado la implementación del sistema debería resultar, cuando menos, llamativo dado que se trata de un eslabon fundamental en la cadena de legitimidad que tiene el proceso electoral.
 
 Casi como si quisieran embarrar la cancha adrede.
-
