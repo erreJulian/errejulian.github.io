@@ -26,4 +26,7 @@ Resulta llamativo, ademas, que quienes están a cargo de el desarrollo y la impl
 
 Como dije más arriba, no es cierto que peligren los resultados "reales" de la elección, por más que haya [sensacionalistas como Ariel Garbarz](https://twitter.com/GarbarzAriel/status/1151509791061291009?s=20) que afirmen que se van a manipular los votos.
 
-Sin embargo
+Sin embargo, el impacto que puede tener la falta de transparencia con la que el Gobierno Nacional está manejando el proceso puede manchar y entorpecer tanto las PASO como las Generales en octubre. El nivel de desprolijidad y apuro con el que se ha encarado la implementación del sistema debería resultar, cuando menos, llamativo dado que se trata de un eslabon fundamental en la cadena de legitimidad que tiene el proceso electoral.
+
+Casi como si quisieran embarrar la cancha adrede.
+
