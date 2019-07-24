@@ -1,4 +1,4 @@
-No es una canción de Divididos, es lo que va a suceder, si todo sale bien, con el próximo escrutinio en las PASO del 11/8. Pero por las última pruebas que se hicieron del sistema que compró el Gobierno Nacional por unos 18 millones de pesos no son muy alentadoras.
+No es una canción de Divididos, es lo que va a suceder, si todo sale bien, con el próximo escrutinio en las PASO del 11/8. Pero, a juzgar por las última pruebas que se realizaron del sistema que compró el Gobierno Nacional por unos 18 millones de pesos no son muy alentadoras.
 
 Hasta ahora el sistema para el escrutinio provisorio en las elecciones nacionales funcionaba mas o menos así: Una vez cerrada la mesa y confeccionado el telegrama con los resultados, un empleado del correo  llevaba las urnas hasta una oficina del correo y mandaba ese resultado a una oficina que centraliza y computa la información de todas las mesas del país. Finalmente la urna viajaba por separado, para realizar el escrutinio definitivo.
 
