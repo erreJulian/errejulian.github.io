@@ -1,3 +1,7 @@
+Ayer scrolleaba en Reddit y en [/r/WorldNews](https://www.reddit.com/r/worldnews) apareció un artículo de [HuffPost sobre la desigualdad en la distribución de la riqueza](https://www.huffpost.com/entry/billionaires-inequality-oxfam-report-davos_n_5e20db1bc5b674e44b94eca5). Uno de los comentarios en ese hilo, que hoy apareció seleccionado como uno de los mejores por [/r/BestOf](https://www.reddit.com/r/bestof) intenta ilustrar la magnitud de la desigualdad. Lo copio y pego a continuación:
+
+---
+
 Wealth inequality is so much worse than most people realize, our current economic system is very broken and there's plenty of information that proves it. So, where to start?
 
 [The ultra-rich have as much as $32 trillion hidden away in offshore accounts to avoid taxes.](https://www.reuters.com/article/us-offshore-wealth-idUSBRE86L03U20120722) As a way to understand the magnitude of the number 32 trillion (32,000,000,000,000), let's use time as an example. One million seconds is only 12 days, but one billion seconds is 31 years. So there's a massive difference between a million and a billion, much more than people realize. But how much is 32 trillion seconds? It's over a million years.
