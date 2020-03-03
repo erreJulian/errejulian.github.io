@@ -1,4 +1,4 @@
-# Re: Picard
+## Primeras impresiones sobre _Star Trek: Picard_
 
 Siempre me fascinó el universo de Star Trek. Mi primeros recuerdos son de haber visto Star Trek: The Next Generation, la segunda serie de televisión que se estrenó a finales de los ochenta con Patrick Stewart como protagonista.
 
